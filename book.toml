@@ -1,0 +1,10 @@
+[book]
+authors = ["Daiki"]
+description = "未熟な男が一人前のRustaceanになるための本"
+language = "ja"
+multilingual = false
+src = "src"
+title = "Be Rustacean"
+
+[rust]
+edition = "2021"
