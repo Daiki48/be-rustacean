@@ -19,5 +19,5 @@ jobs:
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           external_repository: Daiki48/Daiki48.github.io
-          PUBLISH_BRANCH: main
-          PUBLISH_DIR: ./book
+          publish_branch: main
+          publish_dir: ./book
