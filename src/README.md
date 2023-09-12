@@ -4,4 +4,3 @@
 
 **GitHub Actionsの設定も苦戦中。**
 
-Dockerfileでエラーが発生
